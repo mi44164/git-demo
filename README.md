@@ -1,2 +1,4 @@
 # git-demo
-This is Git referesher 
+This is a Git refresher.
+<br>
+Welcome to the git regfresher.
